@@ -116,4 +116,7 @@
 
 # VIDEO RECORDING
 
-[![Watch the video](screenshots/Video record.mp4)
+https://user-images.githubusercontent.com/44057937/144322867-0259b4de-383e-49f0-bffc-cd27937252f9.mp4
+
+
+
