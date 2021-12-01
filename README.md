@@ -63,3 +63,36 @@
 
 # UPDATE BOOKS INFO
 ![alt text](https://github.com/GentritIbishi/LibraryManagementSoftware/blob/main/screenshots/update%20books%20info.png?raw=true)
+
+# UPDATE READER INFO
+![alt text](https://github.com/GentritIbishi/LibraryManagementSoftware/blob/main/screenshots/update%20reader%20info.png?raw=true)
+
+# UPDATE BOOK HOLDERS INFO
+![alt text](https://github.com/GentritIbishi/LibraryManagementSoftware/blob/main/screenshots/update%20book%20holders%20info.png?raw=true)
+
+# UPDATE SEATS OF READER
+![alt text](https://github.com/GentritIbishi/LibraryManagementSoftware/blob/main/screenshots/update%20sits%20of%20reader.png?raw=true)
+
+# DELETE BOOKS, READERS, BOOK HOLDERS, SEATS
+![alt text](https://github.com/GentritIbishi/LibraryManagementSoftware/blob/main/screenshots/delete%20books,%20reader,%20book%20holder,%20remove%20sits.png?raw=true)
+
+# DELETE BOOKS
+![alt text](https://github.com/GentritIbishi/LibraryManagementSoftware/blob/main/screenshots/delete%20books.png?raw=true)
+
+# DELETE READERS
+![alt text](https://github.com/GentritIbishi/LibraryManagementSoftware/blob/main/screenshots/delete%20readers.png?raw=true)
+
+# DELETE BOOK HOLDERS
+![alt text](https://github.com/GentritIbishi/LibraryManagementSoftware/blob/main/screenshots/delete%20book%20holder.png?raw=true)
+
+# DELETE SEATS SET FROM BUSY TO FREE MODE
+![alt text](https://github.com/GentritIbishi/LibraryManagementSoftware/blob/main/screenshots/delete%20place.png?raw=true)
+
+# TO DO LIST ABOUT EVERYDAY WORK
+![alt text](https://github.com/GentritIbishi/LibraryManagementSoftware/blob/main/screenshots/to%20do%20list.png?raw=true)
+
+# LOG OUT
+![alt text](https://github.com/GentritIbishi/LibraryManagementSoftware/blob/main/screenshots/Log%20out.png?raw=true)
+
+# ABOUT
+![alt text](https://github.com/GentritIbishi/LibraryManagementSoftware/blob/main/screenshots/about.png?raw=true)
