@@ -1,4 +1,3 @@
-# LibraryManagementSoftware
 # Desktop Application - Library Management Software
 
 #### FIRST OF ALL U NEED TO CREATE A DATABASE IN YOUR DEVICE CALLED NAME "LibraryDatabase" and type of database is "Mysql". USER CREATED WITH ADMIN ACCESS CREDENTIALS BY DEAFULT:
