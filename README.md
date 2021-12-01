@@ -1,6 +1,16 @@
 # LibraryManagementSoftware
 # Desktop Application - Library Management Software
 
+#### CREDENTIALS CREATED BY DEAFULT
+#### USERNAME: gentrit
+#### PASSWORD: 1234
+#### DATABASE USER: MYSQL
+#### FIRST OF ALL U NEED TO CREATE A DATABASE IN YOUR 
+
+# Zhvilluar nga / Developed By
+
+#### Gentrit Ibishi - gentritibishi@gmail.com
+
 # LOGIN PAGE
 ![alt text](https://github.com/GentritIbishi/LibraryManagementSoftware/blob/main/screenshots/Login.png?raw=true)
 
