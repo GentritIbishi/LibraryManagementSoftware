@@ -113,3 +113,7 @@
 
 # ABOUT
 ![alt text](https://github.com/GentritIbishi/LibraryManagementSoftware/blob/main/screenshots/about.png?raw=true)
+
+# VIDEO RECORDING
+
+[![Watch the video](screenshots/Video record.mp4)
